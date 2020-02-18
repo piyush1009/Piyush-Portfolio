@@ -178,7 +178,7 @@ h2 {
   font-weight: 700;
 }
 
-.content-body p {
+.content-body p,a {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #285172;
     font-weight: 500;
